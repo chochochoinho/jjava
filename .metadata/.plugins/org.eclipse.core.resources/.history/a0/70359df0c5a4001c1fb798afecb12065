@@ -1,0 +1,40 @@
+package me;
+
+public class yes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int i; int ii;
+		
+//		for(i=0; i<5; i++) {
+//			System.out.println("yes"+i);
+//		
+		for(ii=0; ii<10; ii++) {
+			if (ii==4) {
+
+				
+				
+				
+//				
+//				if (ii!=4) {
+//					
+//					System.out.println("i는 4가 아니다");
+//					
+//				}
+//				else if(ii==4) {
+//					System.out.println("현재 i의 값"+ii);
+//					System.out.println("*" );
+//				}
+//			
+			}
+			System.out.println(ii);
+		} 
+				
+				
+				
+			
+			
+		}
+	}
+

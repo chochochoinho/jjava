@@ -1,0 +1,32 @@
+
+public class Control2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		boolean android = true ; 
+		boolean iOs = false; 
+		//만약에 andorid 가 ture라면  
+		
+		// my  =1; 
+
+		int my_phone=1; 
+		int ture =1; 
+		int fal =0; 
+		
+		//if (android==ture) {
+			
+			System.out.println("안드로이드 입니다."); 
+			 	
+		}
+			
+	//	else if (iOs)		
+		
+		{
+			System.out.println("ios 입니다. 출력 ");
+		}
+		
+	}
+}
+
+

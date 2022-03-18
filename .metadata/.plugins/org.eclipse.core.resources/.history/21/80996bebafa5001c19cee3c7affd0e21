@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class bbb {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int num=0;
+		int i=0;
+		System.out.println("문자 1개를 입력해주세요");
+		Scanner sc = new Scanner(System.in);
+		//int inputData=sc.nextint(); // int
+		String str = sc.next(); // " " 문자열 , ' ' 문자 
+		char ch = str.charAt(0);
+		System.out.println((char)ch-32); 
+		//97 -32 = 65< --A // 98-32=66<---B
+		
+
+			
+		
+		
+		
+		
+		
+		for(i=0; i<7; i++) {
+		num++;
+		System.out.println("알의 개수 "+num);
+	}
+			
+			
+	}
+
+}

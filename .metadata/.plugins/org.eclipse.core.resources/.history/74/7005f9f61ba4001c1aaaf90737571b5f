@@ -1,0 +1,17 @@
+
+public class ex1 {
+	public static void main(String[]args) {
+		int gender=2;
+	
+		
+		if (gender ==2) {
+			 
+			System.out.println("¿©ÀÚ");
+			
+		}
+	
+		
+		
+		
+	}
+}

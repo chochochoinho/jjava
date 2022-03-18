@@ -1,0 +1,21 @@
+
+public class hiw {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//가로 세로 높이 구하기 
+//가로 세로 높이를 곱하면 부피가 
+//float 
+		
+		
+		int z=6;
+		int x=5;
+		float y=4.5f;
+		int sum=0;
+		int r = z*x*
+		//sum=(float) (a*b)*c;
+		System.out.println(sum);
+		
+	}
+
+}

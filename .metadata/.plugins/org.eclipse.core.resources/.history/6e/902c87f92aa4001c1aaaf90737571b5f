@@ -1,0 +1,15 @@
+
+public class sum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=60, b=70 , c=80; 
+		int d =50;
+		int e= 30;
+		
+		
+		int sum= a+b+c+d+e;
+		
+	}
+
+}

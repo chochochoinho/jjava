@@ -1,0 +1,40 @@
+
+public class ex1 {
+	public static void main(String[]args) {
+		/*
+		int gender=2;
+			
+		if (gender ==2) {
+					System.out.println("여자");
+	    if(gender ==3 ) {
+	    	
+	       System.out.println("남자");
+	       		}
+	*/
+	    int score=86;
+	    if(score >=90) { //90 ~100
+	    	System.out.println("수");
+	    	
+	    }else if (score >=80) { // 0 89// 80  89//
+	    	System.out.println("우");
+	    	
+	    }	    else if (score >=70) // 0 79 미 
+	    {
+	    	
+	    }
+	    else {
+	    	System.out.println("가 입니다 ");
+	    	
+	    }
+		
+		System.out.println("종료");
+
+		
+		
+		
+		
+		
+	}
+
+}
+

@@ -1,0 +1,31 @@
+
+public class exexifif {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int my =1 ; gender =2 ; men,1;
+		 
+	    //int my = 1;   
+		//int gender = 2 ; 
+		//int men    = 1;
+		//만약 젠더에 값이 2라면 
+		
+		
+		if (my ==gender) {
+			System.out.println("여자");
+			
+				
+			}
+		
+		else if (my ==men ){
+			System.out.println("여자가 아닙니다.남자입니다.");
+			System.out.println("남자");
+						
+			
+			
+			
+		}
+		}
+ 	}
+

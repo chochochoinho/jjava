@@ -1,0 +1,22 @@
+package me;
+
+public class sum100 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		int i =1; 
+		for (i=1; 1<=100; i++){
+			int sum=0;
+			
+			sum=sum+i;
+			System.out.println(sum);
+			
+			
+			
+		}
+	
+	}
+
+}

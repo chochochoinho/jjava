@@ -1,0 +1,34 @@
+
+public class exna {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		 //int p=60; java=70; , android =80; , c=50;,cplus=30;
+		 int p=60;
+		 int java=70;
+		 int android=80;
+		 int cplus =30;
+		 int c=50; 
+		 
+		 
+		 float rvg; 
+		 int sum=0;
+		 
+		 sum=p+java+android+cplus+c;
+		 rvg = sum / 5;
+	//  rvg =(float)(sum) / 5; 
+		 
+		
+	 System.out.printf("%d", sum+"\n");
+		 //printf " 데이터형  " ,매개변수 )   
+		 
+		 System.out.println("나 잘난 총점 "+sum+"입니다"+"평균운"+rvg+"입니다");
+		// System.out.println("나 잘난 평균  "+rvg);
+		 
+		 
+		 
+	}
+
+}

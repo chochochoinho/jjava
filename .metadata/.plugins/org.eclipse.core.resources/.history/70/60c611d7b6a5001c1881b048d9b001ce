@@ -1,0 +1,23 @@
+
+public class ex1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int i =0;
+		char a = '예';
+		String aa= "예";
+		
+		
+		for (i=5; i>0; i--) {
+			
+			//System.out.println("예");
+		//	System.out.println(a);
+		//	System.out.println(aa);
+		//	System.out.println(aa);
+			char aaa = '예';
+			
+		}
+	}
+
+}

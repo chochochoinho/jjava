@@ -1,0 +1,46 @@
+
+public class While {
+
+	public static void main(String[] args) {
+
+		// TODO Auto-generated method stub
+
+//		int i =1;
+//		while(i<6)
+//		{
+//			System.out.println(i);
+//			i++;
+//		}
+//		
+//		
+//		
+//		
+//		System.out.println("while ¹®¹Û i="+i);
+
+		int a=5;
+		
+		do { 
+			System.out.println(a);
+			
+		} while( a>10);
+			a++;
+			
+				
+	}
+	
+}
+
+				
+		
+//		int aa= 5;
+////		do {
+////			aa++;
+////		}
+//		while( aa>10);
+//		{
+//			System.out.println(aa);
+//			
+//		}
+	
+	
+	

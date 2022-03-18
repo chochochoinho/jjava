@@ -1,0 +1,26 @@
+package me;
+
+public class yes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int i; int ii;
+		
+		for(i=0; i<5; i++) {
+			System.out.println("yes"+i);
+		
+		for(i=0; i<10; ii++) {
+			if (i==4) {
+				System.out.println("*");
+			}
+		}
+				System.out.println("yes"+i);
+				
+				
+			
+			
+		}
+	}
+
+}

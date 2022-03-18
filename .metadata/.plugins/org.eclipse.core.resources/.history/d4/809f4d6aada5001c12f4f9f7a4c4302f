@@ -1,0 +1,40 @@
+
+public class Bbi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num=0;
+		//삐약이 월 화 수 목 금 토 일 알 하나씩 구하기
+		
+		num++;
+		System.out.println("알의 개수"+num); 
+		num++;
+		
+		System.out.println("알의 개수"+num);
+		num++;
+		
+		System.out.println("알의 개수"+num); //수
+		num++;
+		
+		System.out.println("알의 개수"+num);
+		num++;
+			
+		System.out.println("알의 개수"+num);
+		num++;
+		
+		System.out.println("알의 개수"+num);
+	
+		num++;
+		
+		System.out.println("알의 개수"+num);
+		
+		
+	
+	
+	
+	
+	
+	
+	}
+
+}

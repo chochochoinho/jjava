@@ -1,0 +1,15 @@
+
+public class ex11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		 int score 2 = 68;
+		 if (score 2 >=60){
+			 
+			 
+		 }
+	}
+
+}

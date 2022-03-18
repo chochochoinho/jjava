@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+//절대갑 - * - 음수  - * + 음수 , + + => + 
+//절대갑 음수 -1 --> 양수 
+
+public class Var {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc =new Scanner(System.in);
+		System.out.println("수를 입력하세요");
+		int inputX =sc.nextInt();
+		
+		if(inputX>=0) {
+			System.out.println("양수");
+			
+		}
+		else if(inputX<=0) {
+			System.out.println("음수");
+			
+		}
+		
+		
+		
+		int x =2; 
+		//홀 짝 판단 
+		if(x%2==0) {
+			System.out.println("나머지가 0이면 짝수");
+			
+		}else if (x%2 !=0) {
+			System.out.println("홀수");
+			
+		}
+		
+	}
+
+}
